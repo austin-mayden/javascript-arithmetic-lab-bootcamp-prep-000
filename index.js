@@ -1,4 +1,6 @@
-add(1, 80)
+function add(1, 80) {
+  return
+}
 
 subtract(60, 40)
 
