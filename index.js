@@ -2,8 +2,14 @@ function add() {
   1 + 80
 }
 
-subtract(60, 40)
+function subtract() {
+  
+}
 
-multiply(2, 3.4)
+function multiply() {
+  
+}
 
-divide(5.0, 2.5)
+function divide() {
+  
+}
